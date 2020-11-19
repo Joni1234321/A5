@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5df387ed-8333-42b0-ac85-a200d4892820" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kNNWm9snnYOJCBiM28Uzm9eLgG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="gridScaleRadius" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="MandelbrotTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MandelbrotTest">
+    <configuration name="ComplexTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplexTest" />
+      <module name="A5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FractalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FractalTest" />
+      <module name="A5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mandelbrot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mandelbrot" />
+      <module name="A5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MandelbrotTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MandelbrotTest" />
+      <module name="A5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MandelbrotTest" />
+        <item itemvalue="Application.Mandelbrot" />
+        <item itemvalue="Application.ComplexTest" />
+        <item itemvalue="Application.FractalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="127" y="274" key="#Project_Structure" timestamp="1605537219176">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="127" y="274" key="#Project_Structure/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605537219176" />
+    <state x="1703" y="590" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605599307225">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1703" y="590" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1605599307225" />
+    <state x="1703" y="537" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1605599863466">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1703" y="537" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605599863466" />
+    <state x="1631" y="511" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1605608195531">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1631" y="511" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605608195531" />
+    <state width="1256" height="488" key="GridCell.Tab.0.bottom" timestamp="1605615112057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112057" />
+    <state width="1256" height="488" key="GridCell.Tab.0.center" timestamp="1605615112057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112057" />
+    <state width="1256" height="488" key="GridCell.Tab.0.left" timestamp="1605615112056">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112056" />
+    <state width="1256" height="488" key="GridCell.Tab.0.right" timestamp="1605615112057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112057" />
+    <state width="1256" height="488" key="GridCell.Tab.1.bottom" timestamp="1605615112057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112057" />
+    <state width="1256" height="488" key="GridCell.Tab.1.center" timestamp="1605615112057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112057" />
+    <state width="1256" height="488" key="GridCell.Tab.1.left" timestamp="1605615112057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112057" />
+    <state width="1256" height="488" key="GridCell.Tab.1.right" timestamp="1605615112057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605572834624" />
+    <state width="1256" height="488" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605615112057" />
+    <state x="1421" y="348" key="SettingsEditor" timestamp="1605563789192">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1421" y="348" key="SettingsEditor/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605563789192" />
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1605571862159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.210.1920.1040@0.0.2560.1400" timestamp="1605571862159" />
+  </component>
+</project>
